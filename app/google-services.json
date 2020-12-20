@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434858179003",
+    "project_id": "saiti-7e60f",
+    "storage_bucket": "saiti-7e60f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434858179003:android:70714c29e0588bc6516c9e",
+        "android_client_info": {
+          "package_name": "com.example.saiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434858179003-3a8h4c46e789jl0l6ut38vpconj54djt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDffDowZI7BHIpo69F803QFpeqSQOk2PMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434858179003-3a8h4c46e789jl0l6ut38vpconj54djt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
